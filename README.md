@@ -6,7 +6,7 @@ Data Analysis of New York AirBNB dataset (2008-2015)
 
 **Steps taken:**
 
-*Import, clean, transform, and combine data from different tables to create a Tableau dataset.
+- Import, clean, transform, and combine data from different tables to create a Tableau dataset.
 - Created calculated fields that turn source data into meaningful metrics.
 - Created a variety of interactive visuals that convey a clear message.
 - Bring visuals together into stunning dashboards that tell a story.
