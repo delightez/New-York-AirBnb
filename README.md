@@ -2,8 +2,7 @@
 
 # New-York-AirBnb
 Data Analysis of New York AirBNB dataset (2008-2015)
-[Live Dashboard]
-(https://public.tableau.com/app/profile/delight.ogwor/viz/AirbnbDashboard_16826139060730/NYAirbnb)
+[Live Dashboard](https://public.tableau.com/app/profile/delight.ogwor/viz/AirbnbDashboard_16826139060730/NYAirbnb)
 
 **Steps taken:**
 •	Import, clean, transform, and combine data from different tables to create a Tableau dataset.
